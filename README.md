@@ -1,1 +1,3 @@
-# Fluid@GitHub
+# FluidHub
+
+Build modern, extensible and scalable apps.
